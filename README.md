@@ -1,4 +1,5 @@
 # collegewise-result.github.io
+## [click here](https://sanjeet8792.github.io/collegewise-result/)
 View College-wise Result of National University Easily
 
 This git has been created to facilitate viewing of college-wise result of National University of Bangladesh. 
